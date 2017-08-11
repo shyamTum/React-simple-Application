@@ -1,0 +1,32 @@
+{
+  "name": "NewTestProject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-native": "0.47.1",
+    "react-native-web": "0.0.119",
+    "webpack": "^3.5.3",
+    "@storybook/react-native": "alpha",
+   "@storybook/addon-knobs": "^3.0.0-alpha.0",
+   "@storybook/addon-options": "^3.0.0-alpha.0"
+  },
+  "devDependencies": {
+    "babel-jest": "20.0.3",
+    "babel-preset-react-native": "2.1.0",
+    "jest": "20.0.4",
+    "react-test-renderer": "16.0.0-alpha.12",
+    "webpack-dev-server": "^2.7.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
