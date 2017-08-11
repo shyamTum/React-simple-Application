@@ -1,0 +1,4 @@
+#Fri Aug 11 14:17:33 CEST 2017
+base.0=/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

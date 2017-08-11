@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sde/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_967a8def049e64b7644c72a2b2b1757153c225b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_8af09a13b12875df4e8ccf7ae24ca68b16bbb695.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_a7259ce61b940c2c48a8fb1591e46f99b46a810a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_afcffa0cb87ffc35fb2698ca6340f428e27e1f0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/android-studio/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_a9503669edc4099d37beb6a2807640c3002a5155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_24413dfdcea3c6d9c24e0f5eeb16a49a118e85cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_8a7a5d02fccc0056239cd8f4f6eb1b514246e4ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_315f110dc9c5d2bf8b9670a0256966a80a9b93b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_14dda3c82528015d2060eef53cc803ed6442048b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_9b9c3dfe21a07a1ca1d30722b2cdb6139c0a3641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_cf556a25d6c3f87e009d30c8f36f4d8eed43de42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_68b958c8751c8fdaa3d69d93478ba342d33be6fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_731f8d4efb99849899a399719bbbecc88d39826c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.1_12631e21f2f07a54d2cd2231a155f519a9344b20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_177b5e37358e1224dc53801c4b57bd4876b0d3f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_5bd80d7aa5d8a6d53153cd973819441d5222a10e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_f33b30c43c860108415c16cb444ce045727c442f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_52e9f2918ed5272f9b719acc3bea0fd9f17ffb4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_cca36f52cc326ceebe56f3c2fae0121b10788c22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_6e570af9d7503b7529a4f01c767f6981852b91c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/sde/React_Application/React-simple-Application/NewTestProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6c662004a98a5e864023eec07d04573805571328.jar" />
+    </item>
+
+</items>
