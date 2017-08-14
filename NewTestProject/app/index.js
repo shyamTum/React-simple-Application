@@ -9,7 +9,9 @@ import {
 export default class mainComponent extends React.Component{
 	render () {
 		return (
-          <Text>This is first application</Text>
+          <View>
+              <Text>This is first application</Text>
+          </View>
          );
 	}
 }
