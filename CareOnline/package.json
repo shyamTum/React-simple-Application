@@ -1,34 +1,34 @@
 {
-  "name": "CareOnline",
+  "name": "NewTestProject",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "start": "export PORT=3006  && node node_modules/react-native/local-cli/cli.js start",
     "test": "jest",
     "web-dev": "./node_modules/.bin/webpack-dev-server -d --config webpack.config.js --inline --hot --colors",
     "android": "react-native bundle --platform android --dev false --entry-file index.android.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res && react-native run-android"
   },
   "dependencies": {
-    "firebase": "^2.3.2",
-    "react": "^15.4.1",
-    "react-dom": "^15.4.1",
-    "react-native": "^0.42.3",
+    "@storybook/addon-knobs": "^3.0.0-alpha.0",
+    "@storybook/addon-options": "^3.0.0-alpha.0",
+    "@storybook/react-native": "alpha",
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "firebase": "^2.4.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-native": "0.47.1",
+    "react-native-code-push": "^5.0.0-beta",
     "react-native-web": "0.0.119",
-    "react-router": "^4.1.2",
-    "react-router-dom": "^4.1.2"
+    "webpack": "^3.5.3"
   },
   "devDependencies": {
-    "babel-core": "^6.25.0",
     "babel-jest": "20.0.3",
-    "babel-loader": "^7.1.1",
-    "babel-preset-react": "^6.24.1",
     "babel-preset-react-native": "2.1.0",
-    "file-loader": "^0.11.2",
     "jest": "20.0.4",
-    "react-test-renderer": "^15.4.1",
-    "url-loader": "^0.5.9",
-    "webpack": "^3.4.1",
-    "webpack-dev-server": "^2.6.1"
+    "react-test-renderer": "16.0.0-alpha.12",
+    "webpack-dev-server": "^2.7.1"
   },
   "jest": {
     "preset": "react-native"
