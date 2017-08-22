@@ -69,6 +69,9 @@ var Firebase = require ('firebase');
   var authError;
   var authData = 0;
   var mUserId;
+  var firebasePatientId = 'd4b3dcc3fd';
+  var tmpReminders = [];
+  var tmpQuestions = [];
 
 //   FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
 //   if (user != null) {
@@ -88,17 +91,55 @@ var Firebase = require ('firebase');
           authError = null;
           // $rootScope.$broadcast('authenticationUpdated');
         }
+        var questioncatalogsRef = ref.child('patients/' + firebasePatientId + '/questioncatalogs');
+        var remindersRef = ref.child('patients/' + firebasePatientId + '/reminders');
+
+        questioncatalogsRef.on('value', function(snapshot) {
+        // cache locally, update on change
+        // var tmpQuestions = [];
+        snapshot.forEach(function(r) {
+        	console.log('r value is  ',r.val());
+          tmpQuestions.push(r.val());
+        });
+        // window.localStorage['reminders'] = JSON.stringify(tmpReminders);
+        // notify view on update
+        // $rootScope.$broadcast('remindersChanged', tmpReminders);
+        console.log('tmpQuestions ', tmpQuestions);
+
+      }, function (errorObject) {
+        console.error('The read failed: ' + errorObject.code);
       });
 
-export default class mainComponent extends React.Component{
+      remindersRef.on('value', function(snapshot) {
+        // cache locally, update on change
+        // var tmpReminders = [];
+        snapshot.forEach(function(r) {
+        	console.log('r value is  ',r.val());
+          tmpReminders.push(r.val());
+        });
+        // window.localStorage['reminders'] = JSON.stringify(tmpReminders);
+        // notify view on update
+        // $rootScope.$broadcast('remindersChanged', tmpReminders);
+        console.log('tmpReminders ', tmpReminders);
+
+      }, function (errorObject) {
+        console.error('The read failed: ' + errorObject.code);
+      });
+
+    });
+
+export default class CareOnline extends React.Component{
 
  
   	render () {
 		return (
           <View>
               <Text>This is first application</Text>
+              {tmpQuestions}
+              
           </View>
          );
 	}
 }
+
 
